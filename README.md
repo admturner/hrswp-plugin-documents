@@ -4,6 +4,9 @@
 
 ## Overview
 
+> [!CAUTION]
+> As of 26 July 2024, this project is archived and no longer being actively maintained.
+
 A WSU HRS WordPress plugin that helps to create and manage a document library.
 
 ## Description
@@ -58,6 +61,10 @@ The following commands will handle basic build functions. (Remove the `-s` flag 
 - `npm run build:styles -s`: Compile CSS.
 
 See the scripts section of `package.json` for additional available commands.
+
+## Support Level
+
+**Archived:** WSU HRS no longer maintains this plugin.
 
 ## HRSWP Documents Issues
 
